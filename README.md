@@ -1,15 +1,11 @@
 # BrazilianStocksAnalyser
 
-Claro! Aqui está uma sugestão para um arquivo `README.md` para o seu projeto no GitHub:
-
 ---
 
 # Advanced Stock Analysis with Streamlit and Pandas
 
 This project provides an intuitive tool to analyze stock data. Built using Python, Streamlit, and Pandas, it allows users to upload CSV files with stock information and receive processed insights on top-performing stocks based on various selection criteria.
 
-![App Screenshot](path_to_your_screenshot.png)  
-*Note: Replace "path_to_your_screenshot.png" with the actual path to a screenshot of your app, if you have one.*
 
 ## Features
 
